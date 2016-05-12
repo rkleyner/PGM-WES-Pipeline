@@ -692,7 +692,7 @@ echo 'SNP=TP0005.snp.vcf'
 
 echo 'ALL FILES LOCATED IN WORKING DIRECTORY'
 
-echo 'HAVE A NICE DAY'
+
 
 
 
