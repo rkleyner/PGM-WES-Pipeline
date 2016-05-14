@@ -17,3 +17,6 @@ The OTG-snpcaller pipeline, developed by Zhu et al. was rewritten to be optimize
 
 Citation: Zhu P, He L, Li Y, Huang W, Xi F, et al. (2015) Correction: OTG-snpcaller: An Optimized Pipeline Based on TMAP and GATK for SNP Calling from Ion Torrent Data. PLoS ONE 10(9): e0138824. doi: 10.1371/journal.pone.0138824
 
+## Python Program
+
+The Python program is used to determine if variants have an autosomal recessive inheritance pattern or are de novo. The program takes ANNOVAR formatted (avinput) files, and outputs avinput and BED files. Sibblings can be added or removed in order to make the program appropriate to use with various pedigrees. 
