@@ -20,3 +20,5 @@ Citation: Zhu P, He L, Li Y, Huang W, Xi F, et al. (2015) Correction: OTG-snpcal
 ## Python Program
 
 The Python program is used to determine if variants have an autosomal recessive inheritance pattern or are de novo. The program takes ANNOVAR formatted (avinput) files, and outputs avinput and BED files. Sibblings can be added or removed in order to make the program appropriate to use with various pedigrees. 
+
+Information about ANNOVAR can be found here: http://annovar.openbioinformatics.org/en/latest/
