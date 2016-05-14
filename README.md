@@ -22,3 +22,9 @@ Citation: Zhu P, He L, Li Y, Huang W, Xi F, et al. (2015) Correction: OTG-snpcal
 The Python program is used to determine if variants have an autosomal recessive inheritance pattern or are de novo. The program takes ANNOVAR formatted (avinput) files, and outputs avinput and BED files. Sibblings can be added or removed in order to make the program appropriate to use with various pedigrees. 
 
 Information about ANNOVAR can be found here: http://annovar.openbioinformatics.org/en/latest/
+
+## GEMINI Upload Script
+
+A script to create two queryable GEMINI databases for de novo and autosomal recessive variants. These databases are separate.
+
+Information about GEMINI can be found here: http://gemini.readthedocs.io/en/latest/
