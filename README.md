@@ -13,7 +13,7 @@ Preprints can be viewed at http://lyonlab.labsites.cshl.edu/publications/
 
 ## Variant Calling Pipeline
 
-The OTG-snpcaller pipeline, developed by Zhu et al. was rewritten to be optimized for use. The original program as recieived from the authors, as well as the scripts used in analysis, can be found in this repository. 
+The OTG-snpcaller pipeline, developed by Zhu et al. was rewritten to be optimized for use. The original program as recieived from the authors, as well as only the scripts used in analysis, can be found in the main and Variant_Calling directories respectively.
 
 Citation: Zhu P, He L, Li Y, Huang W, Xi F, et al. (2015) Correction: OTG-snpcaller: An Optimized Pipeline Based on TMAP and GATK for SNP Calling from Ion Torrent Data. PLoS ONE 10(9): e0138824. doi: 10.1371/journal.pone.0138824
 
