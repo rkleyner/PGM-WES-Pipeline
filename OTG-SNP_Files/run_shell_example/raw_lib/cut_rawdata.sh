@@ -1,0 +1,1 @@
+ perl ./bin/cut_file.pl -i /ifs3/proton/results/data4/Auto_BGI-4_BGI-34-BGI4_r33_TP00010_8.5pM_20130706_59_091/basecaller_results/IonXpress_017_rawlib.basecaller.bam -o ../result/TP00005/clean_data/TP00005.rawlib.basecaller -base 9999999999999 

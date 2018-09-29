@@ -1,0 +1,1 @@
+./bin/tmap mapall -n 16 -f /ifs1/ST_RNA/USER/zhupengyuan/ref/Homo_genome/genome.fa -r  ../result/TP00005/clean_data/TP00005.rawlib.basecaller.bam -i bam -o 2 -v -Y -u --prefix-exclude 5 stage1 map4 > ./TP00005.bam
